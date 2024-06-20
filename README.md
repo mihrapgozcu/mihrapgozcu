@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
-[alifurkant](https://github.com/mihrapgozcu)
+[mihrapgozcu](https://github.com/mihrapgozcu)
 
 ## 🌱 I’m currently learning C# .Net
 
