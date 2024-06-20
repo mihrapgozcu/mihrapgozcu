@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
 [mihrapgozcu](https://github.com/mihrapgozcu)
 
-## 🌱 I’m currently learning C# .Net
+## 🌱 I’m currently learning :  C# ,.Net, JavaScript
 
 ## 📫 How to reach me
 - Email: mihrapgozcu@gmail.com
