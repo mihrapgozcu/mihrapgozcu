@@ -4,7 +4,8 @@
 ## 🌱 I’m currently learning :  C# ,.Net, JavaScript
 
 ## 📫 How to reach me
-- Email: mihrapgozcu@gmail.com
+- Email: [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihrapgozcu@gmail.com)
+
 
 ## Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihrapgozcu/)
