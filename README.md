@@ -1,7 +1,8 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
 [mihrapgozcu](https://github.com/mihrapgozcu)
 
-## 🌱 I’m currently learning :  C# ,.Net, JavaScript
+## 🌱 I’m currently learning :  
+-C# ,.Net, JavaScript
 
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihrapgozcu@gmail.com)
