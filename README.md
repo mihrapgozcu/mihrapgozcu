@@ -1,10 +1,11 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
 [mihrapgozcu](https://github.com/mihrapgozcu)
 
-## 🌱 I’m currently learning :  
--C# ,
--.Net, 
--JavaScript
+## 🌱 I’m currently learning:
+- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihrapgozcu@gmail.com)
