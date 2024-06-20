@@ -7,9 +7,8 @@
 - Email: mihrapgozcu@gmail.com
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mihrapgozcu/)
-
-- [GitHub](https://github.com/mihrapgozcu)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihrapgozcu/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihrapgozcu)
 
 ## Languages and Tools:
 - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
