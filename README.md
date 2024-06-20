@@ -7,7 +7,7 @@
 - Email: mihrapgozcu@gmail.com
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mihrap-g%C3%B6zc%C3%BC-19749013a/)
+- [LinkedIn](https://www.linkedin.com/in/mihrapgozcu/)
 
 - [GitHub](https://github.com/mihrapgozcu)
 
