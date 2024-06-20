@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
 
-![GIF](https://placehold.it/300)
+![GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ## 🌱 I’m currently learning:
 - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
