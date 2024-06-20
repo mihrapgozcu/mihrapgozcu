@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mihrap GÖZCÜ
-[alifurkant](https://github.com/alifurkant)
+[alifurkant](https://github.com/mihrapgozcu)
 
 ## 🌱 I’m currently learning C# .Net
 
@@ -9,7 +9,7 @@
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/mihrap-g%C3%B6zc%C3%BC-19749013a/)
 
-- [GitHub](https://github.com/afurkant)
+- [GitHub](https://github.com/mihrapgozcu)
 
 ## Languages and Tools:
 - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
